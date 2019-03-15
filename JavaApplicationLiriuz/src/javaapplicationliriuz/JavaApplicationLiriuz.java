@@ -5,6 +5,8 @@
  */
 package javaapplicationliriuz;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author lab219-16
@@ -15,7 +17,8 @@ public class JavaApplicationLiriuz {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null,"Hola Mundo");
     }
     
 }
